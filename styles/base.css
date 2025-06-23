@@ -30,7 +30,7 @@ img#chat {
   width: 200px;
 }
 
-input[type=chanaweri] {
+input#chanaweri {
   margin-top: 15px;
   width: 300px;
   border-radius: 50px;
@@ -109,4 +109,4 @@ img#foto {
   border-radius: 50px;
   margin-left: 100px;
   margin-right: 100px;
-}/*# sourceMappingURL=style.css.map */
+}/*# sourceMappingURL=base.css.map */
